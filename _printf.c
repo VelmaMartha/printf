@@ -4,8 +4,13 @@ void print_buffer(char buffer[], int *buff_ind);
 
 /**
  * _printf - Printf function
+<<<<<<< HEAD
  * @format: format
  * Return: Printed chars
+=======
+ * @format: format.
+ * Return: Printed characters.
+>>>>>>> 8069d1e9ba5d914fa0b206bea7a12aa2f0db42e4
  */
 int _printf(const char *format, ...)
 {
